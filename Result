@@ -1,1 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Result card</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <table border="1px" cellspacing="0" style="width: 400px;">
+            <tr>
+                <th class="blue" colspan="6">BOARD OF INTERMEDIATE & <br>
+                    SECONDARY EDUCATION, <br>
+                    MULTAN
+                </th>
+            </tr>
+            <tr>
+                <th class="blue" colspan="6">
+                    Provisional Result Intimation
+                </th>
+            </tr>
+            <tr>
+                <th class="blue" colspan="6">
+                    Higher Secondary School (Part I) <br>
+                    Examination 1st Annual 2023</th>
+            </tr>
+            <tr>
+                <td class="space" colspan="1">&nbsp;&nbsp;Roll No.</td>
+                <td class="p" colspan="5">720508 </td>
+            </tr>
+            <tr>
+                <td class="space" colspan="1">&nbsp;&nbsp;Name</td>
+                <td class="p" colspan="5">UMAR FAROOQ</td>
+            </tr>
+            <tr>
+                <td class="space" colspan="1"> &nbsp;&nbsp;Father <br> &nbsp;&nbsp;Name</td>
+                <td class="p" colspan="5">MUHAMMAD IQBAL </td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;Institute &nbsp;&nbsp;Name</td>
+                <td class="p" colspan="5">200129-Govt.Associate College, Jalalpur Pirwala</td>
+            </tr>
+            <tr>
+                <td class="bg">&nbsp;&nbsp;&nbsp;&nbsp;Subject <br>&nbsp;&nbsp;&nbsp;&nbsp; Name</td>
+                <td class="bg">Max.<br>Marks</td>
+                <td class="bg">Obtained Marks</td>
+                <td class="bg">Percentile Score</td>
+                <td class="bg">Relative Grade</td>
+                <td class="bg">&nbsp;&nbsp;Status&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;Translation Of Holy Quran</td>
+                <td>&nbsp;&nbsp;&nbsp;50</td>
+                <td>&nbsp;&nbsp;&nbsp;48</td>
+                <td>&nbsp;&nbsp;&nbsp;96</td>
+                <td>&nbsp;&nbsp;&nbsp;A+</td>
+                <td>&nbsp;&nbsp;PASS</td>
+            </tr>
+            <tr>
+                <td>&nbsp;Urdu</td>
+                <td>&nbsp;&nbsp;&nbsp;100</td>
+                <td>&nbsp;&nbsp;&nbsp;62</td>
+                <td>&nbsp;&nbsp;&nbsp;64.58</td>
+                <td>&nbsp;&nbsp;&nbsp;C</td>
+                <td>&nbsp;&nbsp;PASS</td>
+            </tr>
+            <tr>
+                <td>&nbsp;English</td>
+                <td>&nbsp;&nbsp;&nbsp;100</td>
+                <td>&nbsp;&nbsp;&nbsp;85</td>
+                <td>&nbsp;&nbsp;&nbsp;85.86</td>
+                <td>&nbsp;&nbsp;&nbsp;B+</td>
+                <td>&nbsp;&nbsp;PASS</td>
+            </tr>
+            <tr>
+                <td>&nbsp;Islamic Education</td>
+                <td>&nbsp;&nbsp;&nbsp;50</td>
+                <td>&nbsp;&nbsp;&nbsp;38</td>
+                <td>&nbsp;&nbsp;&nbsp;76</td>
+                <td>&nbsp;&nbsp;&nbsp;C+</td>
+                <td>&nbsp;&nbsp;PASS</td>
+            </tr>
+            <tr>
+                <td>&nbsp;Translation Of Holy Quran</td>
+                <td>&nbsp;&nbsp;&nbsp;50</td>
+                <td>&nbsp;&nbsp;&nbsp;48</td>
+                <td>&nbsp;&nbsp;&nbsp;96</td>
+                <td>&nbsp;&nbsp;&nbsp;A+</td>
+                <td>&nbsp;&nbsp;PASS</td>
+            </tr>
+            <tr>
+                <td>&nbsp;Physics</td>
+                <td>&nbsp;&nbsp;&nbsp;85</td>
+                <td>&nbsp;&nbsp;&nbsp;33</td>
+                <td>&nbsp;&nbsp;&nbsp;38.82</td>
+                <td>&nbsp;&nbsp;&nbsp;E+</td>
+                <td>&nbsp;&nbsp;PASS</td>
+            </tr>
+            <tr>
+                <td>&nbsp;Chemistry</td>
+                <td>&nbsp;&nbsp;&nbsp;85</td>
+                <td>&nbsp;&nbsp;&nbsp;38</td>
+                <td>&nbsp;&nbsp;&nbsp;44.71</td>
+                <td>&nbsp;&nbsp;&nbsp;D+</td>
+                <td>&nbsp;&nbsp;PASS</td>
+            </tr>
+            <tr>
+                <td>&nbsp;Biology</td>
+                <td>&nbsp;&nbsp;&nbsp;85</td>
+                <td>&nbsp;&nbsp;&nbsp;28</td>
+                <td>&nbsp;&nbsp;&nbsp;32.94</td>
+                <td>&nbsp;&nbsp;&nbsp;E</td>
+                <td>&nbsp;&nbsp;PASS</td>
+            </tr>
+            <tr>
+                <th colspan="2">Result Notification</th>
+                <td colspan="4">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;332
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+
+</html>
